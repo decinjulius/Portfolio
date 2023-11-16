@@ -1,0 +1,35 @@
+1695211464749	geckodriver	INFO	Listening on 127.0.0.1:50588
+1695211467817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juliu\\AppData\\Local\\Temp\\rust_mozprofileiegaTS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695211468361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695211468457	Marionette	INFO	Listening on port 50607
+WebDriver BiDi listening on ws://127.0.0.1:50589
+Read port: 50607
+1695211468649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50589/devtools/browser/55c719f0-e680-40dd-bfe0-a1c6736bdb67
+JavaScript warning: https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1 line 7628 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1, line 7668: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695215003540	Marionette	INFO	Stopped listening on port 50607
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50884" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juliu\\AppData\\Local\\Temp\\rust_mozprofileQhjhjG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695211678575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695211678655	Marionette	INFO	Listening on port 50893
+WebDriver BiDi listening on ws://127.0.0.1:50884
+Read port: 50893
+1695211678841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50884/devtools/browser/f8d2d301-a63f-4bc5-9165-3ed34c26a320
+JavaScript warning: https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1 line 8568 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1, line 8608: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1, line 809: Script terminated by timeout at:
+D/<@https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1:809:670
+
+1695211731690	Marionette	INFO	Stopped listening on port 50893
+Dynamically enable window occlusion 1
